@@ -10,8 +10,8 @@ API_HASH = environ.get('API_HASH', 'b561a326f3d3e7e6ef41cf7d57ab8fb3')
 BOT_TOKEN = environ.get('BOT_TOKEN', "7951520969:AAE0Lb-lCglr8HD0CBfCrc4B46pt5ywdDB0")
 
 # Bot settings
-PORT = environ.get("PORT", "8080")
-FQDN = environ.get("FQDN", "file2link.sh-vpn.shop")
+PORT = environ.get("PORT", "8780")
+#FQDN = environ.get("FQDN", "file2link.sh-vpn.shop")
 
 # Online Stream and Download
 MULTI_CLIENT = False
